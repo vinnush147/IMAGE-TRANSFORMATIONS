@@ -30,8 +30,8 @@ Save or display the final transformed images for analysis and use plt.show() to 
 
 ## Program:
 
-#### Developed By: Subishesh P
-#### Register Number: 212223230220
+#### Developed By: Vinnush kumar L S
+#### Register Number: 212223230244
 ```python
 import cv2
 import numpy as np
